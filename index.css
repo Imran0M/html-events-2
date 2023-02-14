@@ -1,0 +1,65 @@
+.container{
+    border: 1px solid black;
+    width: 60%;
+    height:500px;
+position: relative;
+left:20%;
+margin-top: 30px;
+/* right:50%; */
+}
+.title {
+    text-align: center;
+}
+.conatiner-1{
+    border: 1px solid black;
+    width: 90%;
+    /* height:300px; */
+    margin: 20px;
+    
+}
+.imge{
+    display: flex;
+}
+.inp{
+    margin-top: 50px;
+}
+input{
+    margin: 10px;
+}
+label{
+    margin-right: 20px;
+}
+.btn-con{
+    display:flex;
+    position:relative;
+    left: 50%;
+    margin-bottom: 10px;
+}
+.btn-1{
+    background-color: rgb(14, 14, 49);
+    color: aliceblue;
+    border-radius: 4px;
+    margin-right: 20px;
+    padding: 5px;
+}
+.btn-2{
+    background-color: rgb(230, 20, 20);
+    color: aliceblue;
+    border-radius: 4px;
+    padding: 5px;
+}
+.name{
+    margin-left: 100px;
+}
+.email{
+    margin-left: 100px;
+}
+.phn{
+    margin-left: 44px;
+}
+.number{
+    margin-left: 30px;
+}
+.na{
+    margin-left:0px;
+}
